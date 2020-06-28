@@ -1,0 +1,32 @@
+textarea {
+  width: 100%;
+  padding: 3px;
+  box-sizing: border-box;
+}
+.header {
+  padding: 90px;
+  text-align: center;
+  background: url(header.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+li {
+  list-style-image: url(icons8-espresso-cup-50.png);
+}
+
+body {
+  background: #4a2c2a;
+}
+h1 {
+  font-weight: bold;
+  color: black;
+  font-size: 40px;
+}
+
+.content {
+  max-width: 1400px;
+  margin: auto;
+  background: white;
+  padding: 10px;
+}
